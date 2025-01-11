@@ -1,0 +1,5 @@
+#1 new app with api getx
+   * youtube = flutter hero 
+   * https://newsapi.org/
+   * api key = 323d3effc1594d4ea17cbeb011150fb7
+   
